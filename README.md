@@ -1,2 +1,2 @@
-# react
+# React
 Forskjellige react features.
